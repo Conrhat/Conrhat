@@ -5,9 +5,9 @@
 <img src="https://i.imgur.com/lRWPp30.gif" alt="Welcome!" width="500"/>
 
 </div>
-
+<div align="center">   
 Soy un estudiante de la Universidad Nacional de San Martin, actualmente estoy aprendiendo React y python.
-
+</div>
 <div align="center">
 
 [![HitCount](https://hits.dwyl.com/Conrhat/Conrhat.svg?style=flat-square)](http://hits.dwyl.com/Conrhat/Conrhat)
